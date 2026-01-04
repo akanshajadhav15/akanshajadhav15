@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋 I'm Akansha
 
-<!--
-**akanshajadhav15/akanshajadhav15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Diploma AIML Student (1st Year)**  
+💻 Learning **Web Development, DSA & Linux**  
+🌱 Passionate about technology and continuous learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🌐 Exploring **Frontend & Backend Web Development**
+- 🧠 Building strong fundamentals in **Data Structures & Algorithms**
+- 🐧 Learning **Linux & open-source tools**
+- ✨ Believer in learning by building projects
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** C, Python (Basics)
+- **Web:** HTML, CSS, JavaScript
+- **Core CS:** DSA (Beginner)
+- **Tools & OS:** Linux, Git, GitHub
+
+---
+
+## 📚 Currently Learning
+- 📌 Data Structures & Algorithms  
+- 📌 Web Development Projects  
+- 📌 Linux Commands & Shell Basics  
+- 📌 AIML Fundamentals  
+
+---
+
+## 📈 Goals
+- 🔹 Become strong in **problem solving**
+- 🔹 Build real-world **web & AIML projects**
+- 🔹 Contribute to **open-source**
+- 🔹 Grow consistently as a developer
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: [akanshajadhav15](https://github.com/akanshajadhav15)
+
+---
+
+✨ *Learning today, building tomorrow.*  
